@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+
+
+.urbanist {
+  font-family: "Urbanist", sans-serif;
+  font-optical-sizing: auto;
+}
+
+h1 , p {
+  color: white;
+  text-align:center;
+}
+
+ul {
+  color: white;
+  text-align:center;
+    list-style-type: none;
+  
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a {
+  font-size: 20px;
+}
