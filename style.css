@@ -1,64 +1,33 @@
-html {
-  height: 100%;
-  width: 100%;
-}
+<!DOCTYPE html>
+<html>
 
-h1 {
-  margin-bottom: 10px;
-}
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
 
-.urbanist {
-  font-family: "Urbanist", sans-serif;
-  font-optical-sizing: auto;
-}
+<body>
+  <h1 class="urbanist" style="font-size: 100px; font-style: italic;">hello world.</h1>
+  <p class="urbanist" style="font-size: 15px;">this is a bunch of forks using my username of popular proxies/games, have fun. made with github pages and freedns</p>
+   <ul class="urbanist" style="font-size: 15px;">
+    <li> <a href="https://portaldash.rit.cl/">rammerhead</a> </li>
+     <li> <a href="https://portaldash.twilightparadox.com/">emerald</a> </li>
+     <li> <a href="https://portaldash.github.io/seraph/">seraph</a> </li>
+     <li> <a href="https://portaldash.fr.to/">kazwire</a> </li>
+     <li> <a href="portaldash.69.mu">platformer.io</a> </li>
+      <li> <a href="https://portaldash.vercel.app/">interstellar</a> </li>
+     <li> <a href="https://p0rtaldash.vercel.app/">equinox</a> </li>
+     <li> <a href="https://portaldazh.vercel.app/">doge</a> </li>
+     <li> <a href="portaldashed.vercel.app">artclass</a> </li>
+     <li> <a href="https://portaldashinc.vercel.app/">polaris</a> </li>
+  </ul> 
+    <img src="https://us-east-1.tixte.net/uploads/portaldash.tixte.co/portaldashinc.png" width="300" class="img">
+  <script src="script.js"></script>
+</body>
 
-h1 , p {
-  color: white;
-  text-align:center;
-}
-
-ul {
-  color: white;
-  text-align:center;
-    list-style-type: none;
-
-}
-
-a:link {
-  color: white;
-  text-decoration: none;
-}
-
-a:visited {
-  color: white;
-  text-decoration: none;
-}
-
-a {
-  font-size: 20px;
-}
-
-body {
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-  background-size: 400% 400%;
-  animation: gradient 15s ease infinite;
-  height: 100vh;
-}
-
-@keyframes gradient {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
-}
-
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+</html>
