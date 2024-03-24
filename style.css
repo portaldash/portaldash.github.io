@@ -7,7 +7,6 @@ h1 {
   margin-bottom: 10px;
 }
 
-
 .urbanist {
   font-family: "Urbanist", sans-serif;
   font-optical-sizing: auto;
@@ -56,4 +55,10 @@ body {
   100% {
     background-position: 0% 50%;
   }
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
